@@ -1,0 +1,6 @@
+C:\892557\NUnit\EmployeeProject\EmployeeProject\bin\Debug\EmployeeProject.exe.config
+C:\892557\NUnit\EmployeeProject\EmployeeProject\bin\Debug\EmployeeProject.exe
+C:\892557\NUnit\EmployeeProject\EmployeeProject\bin\Debug\EmployeeProject.pdb
+C:\892557\NUnit\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\892557\NUnit\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.exe
+C:\892557\NUnit\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.pdb

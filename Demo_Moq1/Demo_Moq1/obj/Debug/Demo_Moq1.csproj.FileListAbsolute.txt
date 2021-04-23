@@ -1,0 +1,6 @@
+C:\892557\NUnit\Demo_Moq1\Demo_Moq1\bin\Debug\Demo_Moq1.exe.config
+C:\892557\NUnit\Demo_Moq1\Demo_Moq1\bin\Debug\Demo_Moq1.exe
+C:\892557\NUnit\Demo_Moq1\Demo_Moq1\bin\Debug\Demo_Moq1.pdb
+C:\892557\NUnit\Demo_Moq1\Demo_Moq1\obj\Debug\Demo_Moq1.csproj.CoreCompileInputs.cache
+C:\892557\NUnit\Demo_Moq1\Demo_Moq1\obj\Debug\Demo_Moq1.exe
+C:\892557\NUnit\Demo_Moq1\Demo_Moq1\obj\Debug\Demo_Moq1.pdb

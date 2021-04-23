@@ -1,0 +1,6 @@
+C:\892557\NUnit\Demo_DI\MethodInjection\bin\Debug\MethodInjection.exe.config
+C:\892557\NUnit\Demo_DI\MethodInjection\bin\Debug\MethodInjection.exe
+C:\892557\NUnit\Demo_DI\MethodInjection\bin\Debug\MethodInjection.pdb
+C:\892557\NUnit\Demo_DI\MethodInjection\obj\Debug\MethodInjection.csproj.CoreCompileInputs.cache
+C:\892557\NUnit\Demo_DI\MethodInjection\obj\Debug\MethodInjection.exe
+C:\892557\NUnit\Demo_DI\MethodInjection\obj\Debug\MethodInjection.pdb

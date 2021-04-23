@@ -1,0 +1,6 @@
+C:\892557\NUnit\AuthorPropertyMock\AuthorPropertyMock\bin\Debug\AuthorPropertyMock.exe.config
+C:\892557\NUnit\AuthorPropertyMock\AuthorPropertyMock\bin\Debug\AuthorPropertyMock.exe
+C:\892557\NUnit\AuthorPropertyMock\AuthorPropertyMock\bin\Debug\AuthorPropertyMock.pdb
+C:\892557\NUnit\AuthorPropertyMock\AuthorPropertyMock\obj\Debug\AuthorPropertyMock.csproj.CoreCompileInputs.cache
+C:\892557\NUnit\AuthorPropertyMock\AuthorPropertyMock\obj\Debug\AuthorPropertyMock.exe
+C:\892557\NUnit\AuthorPropertyMock\AuthorPropertyMock\obj\Debug\AuthorPropertyMock.pdb

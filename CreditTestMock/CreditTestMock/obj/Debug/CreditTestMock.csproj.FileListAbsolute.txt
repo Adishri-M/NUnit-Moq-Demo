@@ -1,0 +1,6 @@
+C:\892557\NUnit\CreditTestMock\CreditTestMock\bin\Debug\CreditTestMock.exe.config
+C:\892557\NUnit\CreditTestMock\CreditTestMock\bin\Debug\CreditTestMock.exe
+C:\892557\NUnit\CreditTestMock\CreditTestMock\bin\Debug\CreditTestMock.pdb
+C:\892557\NUnit\CreditTestMock\CreditTestMock\obj\Debug\CreditTestMock.csproj.CoreCompileInputs.cache
+C:\892557\NUnit\CreditTestMock\CreditTestMock\obj\Debug\CreditTestMock.exe
+C:\892557\NUnit\CreditTestMock\CreditTestMock\obj\Debug\CreditTestMock.pdb
